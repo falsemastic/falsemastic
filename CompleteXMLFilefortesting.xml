@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2017-01-25T09:33:40">
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2017-01-30T17:10:10">
 <AppConfiguration>
 <ID>1</ID>
 <AppConfigDate>2016-12-30T00:00:00</AppConfigDate>
@@ -7,7 +7,6 @@
 <BuildTitleText>This is the second fourthirds test</BuildTitleText>
 <StartUpScreenText>Win More, Lose Less, Avoid the no-decisions, Grow bigger deals</StartUpScreenText>
 <CompanyLogo>
- <FileUrl>http://www.fourthirds.com/wp/wp-content/uploads/2016/09/logo.png</FileUrl>
 <FileData>FAAAAAEAAAAEAAAAagBwAGcAAAD/2P/gABBKRklGAAEBAQCWAJYAAP/bAEMACgcH
 CQcGCgkICQsLCgwPGRAPDg4PHhYXEhkkICYlIyAjIigtOTAoKjYrIiMyRDI2Oz1A
 QEAmMEZLRT5KOT9APf/bAEMBCwsLDw0PHRAQHT0pIyk9PT09PT09PT09PT09PT09
@@ -90,6 +89,7 @@ FFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAf/2Q==
 <FileName>Logo.jpg</FileName>
 <FileType>jpg</FileType>
 </CompanyLogo>
+<Language>English</Language>
 </AppConfiguration>
 <Buttons>
 <ID>1</ID>
